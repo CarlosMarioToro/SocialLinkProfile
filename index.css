@@ -74,6 +74,10 @@ img {
     border-radius: 50%;
 }
 
+.profile__img {
+    background-image: url(/social-links-profile-main/assets/images/avatar-jessica.jpeg);
+}
+
 .profile__name {
     color: var(--white);
     font-size: 400;
