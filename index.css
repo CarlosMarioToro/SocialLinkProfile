@@ -8,21 +8,21 @@
 
 @font-face {
     font-family: 'Inter-Bold';
-    src: url('/social-links-profile-main/assets/fonts/static/Inter-Bold.ttf') format('truetype');
+    src: url('/assets/fonts/static/Inter-Bold.ttf') format('truetype');
     font-style: normal;
     font-weight: 400;
 }
 
 @font-face {
     font-family: 'Inter-Regular';
-    src: url('/social-links-profile-main/assets/fonts/static/Inter-Regular.ttf') format('truetype');
+    src: url('/assets/fonts/static/Inter-Regular.ttf') format('truetype');
     font-style: normal;
     font-weight: 600;
 }
 
 @font-face {
     font-family: 'Inter-SemiBold';
-    src: url('/social-links-profile-main/assets/fonts/static/Inter-SemiBold.ttf') format('truetype');
+    src: url('/assets/fonts/static/Inter-SemiBold.ttf') format('truetype');
     font-style: normal;
     font-weight: 700;
 }
