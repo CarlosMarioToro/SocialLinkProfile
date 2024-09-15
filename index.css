@@ -58,7 +58,7 @@ section {
 
 .card {
     width: 35%;
-    height: 100%;
+    /* height: 100%; */
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -76,7 +76,9 @@ img {
 }
 
 .profile__img {
-    background-image: url(/assets/images/avatar-jessica.jpeg);
+    background-image: url(/assets/images/IMG_20220730_211454.jpg);
+    background-position: center;
+    background-size: cover;
 }
 
 .profile__name {
